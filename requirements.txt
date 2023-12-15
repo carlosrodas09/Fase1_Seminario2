@@ -1,0 +1,11 @@
+pandas
+SQLAlchemy
+pycairo
+Automap
+PyMySQL==1.1.0
+Automap
+mysql-connector-python
+
+
+
+
